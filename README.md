@@ -8,13 +8,13 @@ Teams dashboards: [📝 google sheet](https://docs.google.com/spreadsheets/d/1bI
 
 Your team: group number ❔
 
-  - Student 1: ❔ (given name + first name + `github user name`, for example Sébastien Boisgérault `boisgera`)
+  - Student 1: ❔ (AIT IJJOU + OTHMANE + `ukeeed`, for example Sébastien Boisgérault `boisgera`)
 
-  - Student 2: ❔ (given name + first name + `github user name`, for example Sébastien Boisgérault `boisgera`)
+  - Student 2: ❔ (MOULIM + M'HAMMED + `moulimpinfo`, for example Sébastien Boisgérault `boisgera`)
   
-  - Student 3: ❔ (given name + first name + `github user name`, for example Sébastien Boisgérault `boisgera`)
+  - Student 3: ❔ (ELKARDABOUSSI + YOUSSEF + `youssef-elkardaboussi`, for example Sébastien Boisgérault `boisgera`)
 
-  - Student 4: ❔ (given name + first name + `github user name`, for example Sébastien Boisgérault `boisgera`)
+  - Student 4: ❔ (BIKOURNE + ABDELMOIUGHITE + `AbdelmoughiteBik`, for example Sébastien Boisgérault `boisgera`)
 
 ## Getting Started
 
