@@ -12,7 +12,7 @@ Your team: group number 8
 
   - Student 2: ❔ (MOULIM + M'HAMMED + `moulimpinfo`)
   
-  - Student 3: ❔ (ELKARDABOUSSI + YOUSSEF + `youssef-elkardaboussi`)
+  - Student 3: ❔ (EL KARDABOUSSI + YOUSSEF + `youssef-elkardaboussi`)
 
   - Student 4: ❔ (BIKOURNE + ABDELMOIUGHITE + `AbdelmoughiteBik`)
 
