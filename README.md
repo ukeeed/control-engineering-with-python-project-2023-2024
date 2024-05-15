@@ -8,13 +8,13 @@ Teams dashboards: [📝 google sheet](https://docs.google.com/spreadsheets/d/1bI
 
 Your team: group number 8
 
-  - Student 1: ❔ (AIT IJJOU + OTHMANE + `ukeeed`, for example Sébastien Boisgérault `boisgera`)
+  - Student 1: ❔ (AIT IJJOU + OTHMANE + `ukeeed`)
 
-  - Student 2: ❔ (MOULIM + M'HAMMED + `moulimpinfo`, for example Sébastien Boisgérault `boisgera`)
+  - Student 2: ❔ (MOULIM + M'HAMMED + `moulimpinfo`)
   
-  - Student 3: ❔ (ELKARDABOUSSI + YOUSSEF + `youssef-elkardaboussi`, for example Sébastien Boisgérault `boisgera`)
+  - Student 3: ❔ (ELKARDABOUSSI + YOUSSEF + `youssef-elkardaboussi`)
 
-  - Student 4: ❔ (BIKOURNE + ABDELMOIUGHITE + `AbdelmoughiteBik`, for example Sébastien Boisgérault `boisgera`)
+  - Student 4: ❔ (BIKOURNE + ABDELMOIUGHITE + `AbdelmoughiteBik`)
 
 ## Getting Started
 
